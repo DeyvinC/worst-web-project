@@ -1,0 +1,10 @@
+.position {
+    color:red;
+    font-size: 100px;
+    float: right;
+}
+
+.image {
+    background-image: url("finger.png");
+    object-position: 60px 40px;
+}
